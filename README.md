@@ -3,7 +3,7 @@ A free and open-source blog base template. Please feel free to adapt it to your 
 
 Let’s be totally honest here, modern web design in 2020 is an absolute travesty. Sure, some people are doing good work but most of the stuff that actual users see is an embarrassment to human decency. Sites are garish, infested with creepy ads, littered with unethical trackers, and bloated with buggy JavaScript files. AstuteZebra is a blog template for authors that actually care about their readers. It is simple, clean, and readable. Its not perfect but its close. 
 
-**Check out the demo!**
+**[Check out the demo!](http://astutezebra.ipsut.net/)**
 
 ## AstuteZebra is available on:
 * Coming Soon
